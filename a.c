@@ -9,7 +9,7 @@ int main () {
    int d;
    /* while loop execution */
    while( a < 20000000) {
-      printf("%d\t%d\t%.5f\t          %d pesent is done\n", a, b, c, d);
+      printf("%d\t%d\t%.5f\t          %d persent is done\n", a, b, c, d);
       a++;
       b--;
       c = a / (float)b;
